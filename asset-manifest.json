@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "//github.com/Nafisa-Amiri1.github.io/Code-react/static/css/main.31d6cfe0.css",
+    "main.js": "//github.com/Nafisa-Amiri1.github.io/Code-react/static/js/main.253c6b39.js",
+    "index.html": "//github.com/Nafisa-Amiri1.github.io/Code-react/index.html",
+    "main.253c6b39.js.map": "//github.com/Nafisa-Amiri1.github.io/Code-react/static/js/main.253c6b39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.253c6b39.js"
+  ]
+}
